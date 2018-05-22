@@ -1,2 +1,4 @@
 masterの内容
 add 変更をインデックスに登録する
+
+issue2のbranchで変更した内容
